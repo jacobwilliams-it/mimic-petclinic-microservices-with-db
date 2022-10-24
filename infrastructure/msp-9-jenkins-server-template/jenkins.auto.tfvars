@@ -1,0 +1,8 @@
+mykey = "mykeypair"
+ami = "ami-0947d2ba12ee1ff75"
+region = "us-east-1"
+instance_type = "t3a.medium"
+jenkins_server_secgr = "mimic-petclinic-jenkins-server-secgr"
+jenkins-server-tag = "mimic Jenkins Server of Petclinic"
+jenkins-profile = "mimic-petclinic-jenkins-server-profile"
+jenkins-role = "mimic-petclinic-jenkins-server-role"
