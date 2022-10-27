@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 import os
 
-# Set chrome options for working with headless mode (no screen)
+# Set chrom options for working with headless mode (no screen)
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("headless")
 chrome_options.add_argument("no-sandbox")
